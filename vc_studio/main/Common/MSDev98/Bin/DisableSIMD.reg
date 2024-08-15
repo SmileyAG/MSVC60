@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Microsoft\DevStudio\6.0\Debug]
+"SIMDRegisters"=dword:00000000
+
